@@ -1,10 +1,15 @@
 Extrinsics Value System
 =======================
 
-Introduction: The Challenges of Measuring Social Virtue
+Introduction: 
 -------------
 
+### The Challenges of Measuring Social Virtue
+
+
 Humans are social creatures and tribal by nature.  While the merits of tribal behavior may be disputable, tribal instincts in humans drive us to measure all others by their social virtue.  Social virtue is the reflection of the perceived moral and ethical character of an individual as well as the measure of that individual's contributions to society.  These are all subjective notions.  Different tribes and social groups have differing standards for moral and ethical behavior.  The measure of one's contribution to society is subject to potentially dishonest social signaling as well as biases towards or against intrinsic properties that are perceived to have value to that society.
+
+### Properties and Behaviors
 
 Intrinsic properties are the set of all qualities that are acquired outside of the control or consent of the individual.  For example, every person has intrinsic properties that include genetics, circumstances of birth, race, age, gender, sexuality and belief. Some are defined at birth, some are developed during childhood through growth and other experiences before the person is capable of making rational, independent decisions.  Intrinsic properties also include any physical or mental afflictions forced upon an individual against the will of the individual, such as emotional or physical scars from an assault.  
 
