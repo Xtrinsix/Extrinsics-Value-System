@@ -4,10 +4,24 @@ Extrinsics Value System
 Introduction: 
 -------------
 
-### The Challenges of Measuring Social Virtue
-
 
 Humans are social creatures and tribal by nature.  While the merits of tribal behavior may be disputable, tribal instincts in humans drive us to measure all others by their social virtue.  Social virtue is the reflection of the perceived moral and ethical character of an individual as well as the measure of that individual's contributions to society.  These are all subjective notions.  Different tribes and social groups have differing standards for moral and ethical behavior.  The measure of one's contribution to society is subject to potentially dishonest social signaling as well as biases towards or against intrinsic properties that are perceived to have value to that society.
+
+The Extrinsics Value System provides a system for unbiased value judgements: a system for honeestly measuring social virtue based on these principles: 
+
+* Human properties can be separated into intrinsic and extrinsic propertes or a composite of the two.
+* Human behaviors can be separated into intrinsic and extrinsic behaviors.
+* The social virtue of properties and behaviors must be measured independently of individuals exhibiting the properties or behaviors.
+* Individuals exhibiting a property or behavior acquire the measure of social virtue of the property or behavior.
+* Every individual acquires the same measure of social virtue of an exhibited property or behavior regardless of any other properties, behaviors, position or other social standing.
+* Intrinsic properties and behaviors are considerations for interpersonal social relationships such as friendship or attraction.  
+* Intrinsic properties should not be a factor in business or professional interactions, public or social policy, or any other institutional activity or behavior.
+* There are exceptions to every rule, but exceptions should be made with extreme care and deliberation and should truly be considered exceptional.
+
+In this system of valuation, actions, behaviors, and decisions may be considered rationally without the entanglement of sentiment or bias for the entity responsible for those actions, behaviors or decisions. This leads to a more honest and rational measure of a person or institution.
+
+Public policy and any honest personal code of ethics should avoid considerations of intrinsic properties when judging the social virtue of an individual. Instead, a rigorous examination of extrinsic properties and behaviors should should inform opinion.
+
 
 ### Properties and Behaviors
 
@@ -30,9 +44,6 @@ A third classification exists as a hybrid between the two.
 
 
 
-The Extrinsics Value System provides a system for unbiased value judgements. The virtue of an extrinsic behavior or an extrinsic property is measured independently of any entity exhibiting or acquiring that behavior or property, and thus all entities sharing that property share the same associated value judgement. In this system of valuation, actions, behaviors, and decisions may be considered rationally without the entanglement of sentiment or bias for the entity responsible for those actions, behaviors or decisions. This leads to a more honest and rational measure of a person or institution.
-
-Public policy and any honest personal code of ethics should avoid considerations of intrinsic properties when judging the worth or character of an individual. Instead, a rigorous examination of extrinsic properties should should inform opinion.
 
 
 Entities
