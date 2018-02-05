@@ -9,23 +9,35 @@ Humans are social creatures and tribal by nature.  While the merits of tribal be
 
 The Extrinsics Value System provides a system for unbiased value judgements, a system for honestly measuring social virtue based on these principles: 
 
-* Human qualities can be separated into intrinsic and extrinsic properties or a composite of the two.
+* Human qualities can be separated into intrinsic and extrinsic properties.
 * Human behaviors can be separated into intrinsic and extrinsic behaviors.
-* The social virtue of extrinsic properties and behaviors may be measured independently of individuals exhibiting the properties or behaviors.
-* Individuals exhibiting a property or behavior acquire the measure of social virtue of the property or behavior.
-* Every individual acquires the same measure of social virtue of an exhibited property or behavior regardless of any other properties or behaviors, position or other social standing.
-* The social virtue of an individual is reflected by the social virtue acquired through extrinsic properties and behaviors.
-* Intrinsic properties and behaviors are factors in personal social relationships and interactions such as friendship or attraction.  
+* Composite properties are combined from intrinsic and extrinsic properties and behaviors.
+* The social virtue of such properties and behaviors may be measured independently of individuals exhibiting the properties or behaviors.
+* The independently measured social virtues of properties and behaviors are bestowed upon individuals exhibiting those properties or behaviors.
+* Every individual receives the same measure of social virtue of an exhibited property or behavior regardless of any other properties or behaviors, position or other social standing.
+* The aggregation of all social virtues received through extrinsic or composite properties and behaviors is the social virtue of the individual.
+* Intrinsic properties and behaviors are factors of intrinsic attraction in personal social relationships and interactions such as friendship or attraction.
 * Intrinsic properties should not be a factor in business or professional interactions, public or social policy, or any other institutional action or behavior.
 * There are exceptions to every rule, but exceptions should be made with extreme care and deliberation and should truly be considered exceptional.
 
-In this system of valuation, actions, behaviors, and decisions may be considered rationally without the entanglement of sentiment or bias for the entity responsible for those actions, behaviors or decisions.  This leads to a more honest and rational measure of the social virtue of an individual.  Individuals are not judged or measured.  The actions, behaviors and decisions are judged, and invididuals acquire the results of those judgements indirectly.  
+In this system of valuation, actions, behaviors, and decisions may be considered rationally without the entanglement of sentiment or bias for the individual responsible for those actions, behaviors or decisions.  This leads to a more honest and rational measure of the social virtue of an individual.  Individuals are not judged or measured.  The actions, behaviors and decisions are judged, and individuals acquire the results of those judgements indirectly.  
+
+The important takeaways, in plain language:
+
+* You can like a person (intrinsic attraction) who has no positive social virtue.  
+* You can dislike a person (intrinsic repulsion) who has unimpeachable social virtue.
+* It is easy to confuse intrinsic attraction or repulsion with positive or negative social virtue.
+* However, you should not trust someone in a position of power who has no positive social virtue, even if you like the person.
 
 Public policy and any honest personal code of ethics should avoid considerations of intrinsic properties when judging the social virtue of an individual. Instead, a rigorous examination of extrinsic properties and behaviors should should inform opinion.
 
 
 Properties and Behavior
 -----------------------
+
+### Summary
+
+The Extrinsics Value System requires 
 
 ***Intrinsic properties*** are the set of all qualities that are acquired outside of the control or consent of the individual.  For example, every person has intrinsic properties that include genetics, circumstances of birth, race, age, gender, sexuality and belief. Some are defined at birth, some are developed during childhood through growth and other experiences before the person is capable of making rational, independent decisions.  Intrinsic properties also include any physical or mental afflictions forced upon an individual against the will of the individual, such as emotional or physical scars from an assault.  
 
@@ -44,6 +56,12 @@ There are important distinctions between the different types of properties and b
 * Composite properties are quantifiable results of intrinsic properties and extrinsic behaviors.
 * Intrinsic behaviors are subjective and unquantifiable.
 * Extrinsic behaviors can be objectively factual records of actions and decisions.
+
+***Intrinsic attraction*** deserves a mention as a particular intrinsic behavior.  Intrinsic attraction includes both sexual and non-sexual attraction.  For example, friendship and other interpersonal social relationships result from intrinsic attraction.  Intrinsic attraction impedes rational judgement when considering social virtue.  It is easy to forgive or overlook negative social virtues in a friend, a lover, a family member, a member of your tribe, or even an individual you would like to share in any of the aforementioned relationships.  
+
+***Intrinsic repulsion*** is equally important to recognize.  Tribal instincts cause intrinsic repulsion of those who are "outsiders" or different or who just don't generate intrinsic attraction.  Intrinsic repulsion also impedes rational judgement when considering social virtue.  It is easy to overlook or deny positive social virtues in an individual who causes intrinsic repulsion.  
+
+It is crucial to recognize these behaviors and their potential to impede rational judgement and to generate double-standards and hypocrisy.  These very behaviors are the reason the Extrinsics Value System must exist.  We need tools for separating our intrinsic attraction and revulsion from our rational consideration of the social virtues of an individual.  A good leader need not look like a friend, just as a friend may not make a good leader.  
 
 
 ### Intrinsic Properties
