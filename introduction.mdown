@@ -70,10 +70,22 @@ Intrinsic properties have two classifications:
 * **_Innate_**
 	* existing from the time of the entity's creation
 	* not easily changed without the applications of ethically questionable science and medicine
+	* Examples:
+    	* Hair, eye, skin color
+    	* Intelligence
+    	* Gender
+    	* Genetic defects such as susceptibility to disease
+    	* Sexual preference
 * **_Acquired_**
 	* developed as a result of experiences and circumstances beyond the control of the entity
 	* often developed before the entity has independence of choice or rationality of thought
 	* may be developed later in life as the result of (physical or emotional) trauma, coercion or various forms of assault
+	* Examples:
+    	* Religious belief
+    	* Social attitudes (gender, racial, ethnic bias)
+    	* Socioeconomic background
+    	* Ethnicity
+    	* Scars, amputations, or other bodily damage
 
 
 ### Extrinsic Properties
@@ -84,40 +96,71 @@ Extrinsic properties are the result of extrinsic behavior.  Extrinsic properties
 	* measured directly and objectively
 	* intentionally acquired physical characteristics (body modifications, some indications of fitness) and objectively measurable skills (surgical skills, technical skills, math skills, language skills, etc)
 	* directly observable, quantifiable or qualitatively measurable
+	* Examples: 
+    	* Job skills and experience
+    	* Tattoos, piercings, other body decorations or augmentations (these may be reversable)
 * **_Secondary_**
 	* measured indirectly and subjectively
 	* indirectly observable through evidence of extrinsic behavior (compassion, loyalty, initiative, etc)
-	* often described with pairs of opposing terms: loyal vs disloyal, ethical vs unethical, compassionate vs indifferent, etc.
+	* often described with pairs of opposing terms
+	* Examples: 
+    	* Loyal vs disloyal
+    	* Ethical vs unethical
+    	* Compassionate vs indifferent
 
 
 ### Composite Properties
 
-Some properties are composites of more than one property type.  Some intrinsic properties may be developed or altered extrinsically, but without voluntary disclosure by the entity, these should always be assumed to be pure innate or acquired intrinsic properties. Examples: gender, sexuality, religious belief. 
+Some properties are composites of more than one property type.  
 
 #### Innate Intrinsic + Primary Extrinsic
 Innate properties that are directly effected over time by extrinsic behavior, resulting in a composite of innate intrinsic and primary extrinsic properties
 
 Examples:
 
-	* Vision
-	* Hearing
+* Vision
+* Hearing
+* Wisdom
+* Fitness
+* Health
 
 #### Modified Innate/Acquired Intrinsic
 
-Some intrinsic properties may be developed or altered extrinsically, but without voluntary disclosure by the entity, these should always be assumed to be pure innate or acquired intrinsic properties.
+Some intrinsic properties may be developed or altered extrinsically, but without voluntary disclosure by the entity.  These should always be assumed to be pure innate or acquired intrinsic properties.
 
 Examples:
 
-	* gender
-	* sexuality
-	* religious belief
+* Gender
+* Sexual preference
+* Religious belief
+
+Some modifications are temporary and may be difficult to distinguish from purely innate properties.  On first contact with an individual, such temporary modifications may be indistinguishable from purely innate properties.  
+
+Examples:
+
+* Applying hair dye or makeup are extrinsic behaviors that do not alter the innate intrinsic property.
+
+
+Some modifications may be intentionally transmitted through social signaling.
+
+Some modifications may be unintentionally transmitted, or other individuals may publicly disclose modifications without an individual's consent.
+
+
+
 
 
 ### Extrinsic Behavior
 
 Extrinsic behavior is rational and independent choices, actions and decisions.  Rational and independent in this context does not forgive or excuse actions performed as a member of a group or in a moment when emotion interferes with rational thought.  
 
+Examples:
+
+  * Publicly recorded actions
+  * Actions inhibiting or  Intrinsic Liberty.
+
 ### Intrinsic Behavior
+
+Intrinsic behavior 
 
 
 ### Motivation
@@ -152,12 +195,9 @@ Rational and fair public policy must ignore the intrinsic properties of an indiv
 All entities should be accorded the rights of Personal or Regional Liberty regardless of intrinsic properties. Only extrinsic properties are cause for forfeiture of these rights.
 
 
-Math
+Mathematics of Social Virtue
 ------------------------
 
-### Tribal behavior
 
-Logical fallacies of tribal behavior that lead to incorrect moral and ethical valuation:
 
-Members of the tribe have an inherently 
 
