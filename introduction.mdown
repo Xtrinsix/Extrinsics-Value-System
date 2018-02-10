@@ -20,11 +20,11 @@ The Extrinsics Value System provides a system for unbiased value judgements, a s
 * Intrinsic properties should not be a factor in business or professional interactions, public or social policy, or any other institutional action or behavior.
 * There are exceptions to every rule, but exceptions should be made with extreme care and deliberation and should truly be considered exceptional.
 
-In this system of valuation, actions, behaviors, and decisions may be considered rationally without the entanglement of sentiment or bias for the individual responsible for those actions, behaviors or decisions.  This leads to a more honest and rational measure of the social virtue of an individual.  Individuals are not judged or measured.  The actions, behaviors and decisions are judged, and individuals acquire the results of those judgements indirectly.  
+In this system of valuation, actions, behaviors, and decisions may be considered rationally without the entanglement of sentiment or bias for the individual responsible for those actions, behaviors or decisions.  This leads to a more honest and rational measure of the social virtue of an individual.  Individuals are not judged or measured.  The actions, behaviors and decisions are judged, and individuals acquire the results of those judgements indirectly.
 
 The important takeaways, in plain language:
 
-* You can like a person (intrinsic attraction) who has no positive social virtue.  
+* You can like a person (intrinsic attraction) who has no positive social virtue.
 * You can dislike a person (intrinsic repulsion) who has unimpeachable social virtue.
 * It is easy to confuse intrinsic attraction or repulsion with positive or negative social virtue.
 * However, you should not trust someone in a position of power who has no positive social virtue, even if you like the person.
@@ -39,9 +39,9 @@ Properties and Behavior
 
 The Extrinsics Value System requires 
 
-***Intrinsic properties*** are the set of all qualities that are acquired outside of the control or consent of the individual.  For example, every person has intrinsic properties that include genetics, circumstances of birth, race, age, gender, sexuality and belief. Some are defined at birth, some are developed during childhood through growth and other experiences before the person is capable of making rational, independent decisions.  Intrinsic properties also include any physical or mental afflictions forced upon an individual against the will of the individual, such as emotional or physical scars from an assault.  
+***Intrinsic properties*** are the set of all qualities that are acquired outside of the control or consent of the individual.  For example, every person has intrinsic properties that include genetics, circumstances of birth, race, age, gender, sexuality and belief. Some are defined at birth, some are developed during childhood through growth and other experiences before the person is capable of making rational, independent decisions.  Intrinsic properties also include any physical or mental afflictions forced upon an individual against the will of the individual, such as emotional or physical scars from an assault.
 
-By contrast, ***extrinsic properties*** are those qualities acquired through rational and independent actions or choices.  Work experience and life skills, education, public records of actions and behavior, and intentional physical enhancements are but some examples of extrinsic properties.  
+By contrast, ***extrinsic properties*** are those qualities acquired through rational and independent actions or choices.  Work experience and life skills, education, public records of actions and behavior, and intentional physical enhancements are but some examples of extrinsic properties.
 
 ***Extrinsic behaviors*** are the rational and independent actions, and decisions of a person.  Extrinsic properties are typically a record of extrinsic behaviors, whether recorded digitally, socially, on paper or on the person's own body.
 
@@ -57,11 +57,11 @@ There are important distinctions between the different types of properties and b
 * Intrinsic behaviors are subjective and unquantifiable.
 * Extrinsic behaviors can be objectively factual records of actions and decisions.
 
-***Intrinsic attraction*** deserves a mention as a particular intrinsic behavior.  Intrinsic attraction includes both sexual and non-sexual attraction.  For example, friendship and other interpersonal social relationships result from intrinsic attraction.  Intrinsic attraction impedes rational judgement when considering social virtue.  It is easy to forgive or overlook negative social virtues in a friend, a lover, a family member, a member of your tribe, or even an individual you would like to share in any of the aforementioned relationships.  
+***Intrinsic attraction*** deserves a mention as a particular intrinsic behavior.  Intrinsic attraction includes both sexual and non-sexual attraction.  For example, friendship and other interpersonal social relationships result from intrinsic attraction.  Intrinsic attraction impedes rational judgement when considering social virtue.  It is easy to forgive or overlook negative social virtues in a friend, a lover, a family member, a member of your tribe, or even an individual you would like to share in any of the aforementioned relationships.
 
-***Intrinsic repulsion*** is equally important to recognize.  Tribal instincts cause intrinsic repulsion of those who are "outsiders" or different or who just don't generate intrinsic attraction.  Intrinsic repulsion also impedes rational judgement when considering social virtue.  It is easy to overlook or deny positive social virtues in an individual who causes intrinsic repulsion.  
+***Intrinsic repulsion*** is equally important to recognize.  Tribal instincts cause intrinsic repulsion of those who are "outsiders" or different or who just don't generate intrinsic attraction.  Intrinsic repulsion also impedes rational judgement when considering social virtue.  It is easy to overlook or deny positive social virtues in an individual who causes intrinsic repulsion.
 
-It is crucial to recognize these behaviors and their potential to impede rational judgement and to generate double-standards and hypocrisy.  These very behaviors are the reason the Extrinsics Value System must exist.  We need tools for separating our intrinsic attraction and revulsion from our rational consideration of the social virtues of an individual.  A good leader need not look like a friend, just as a friend may not make a good leader.  
+It is crucial to recognize these behaviors and their potential to impede rational judgement and to generate double-standards and hypocrisy.  These very behaviors are the reason the Extrinsics Value System must exist.  We need tools for separating our intrinsic attraction and revulsion from our rational consideration of the social virtues of an individual.  A good leader need not look like a friend, just as a friend may not make a good leader.
 
 
 ### Intrinsic Properties
@@ -111,7 +111,7 @@ Extrinsic properties are the result of extrinsic behavior.  Extrinsic properties
 
 ### Composite Properties
 
-Some properties are composites of more than one property type.  
+Some properties are composites of more than one property type.
 
 #### Innate Intrinsic + Primary Extrinsic
 Innate properties that are directly effected over time by extrinsic behavior, resulting in a composite of innate intrinsic and primary extrinsic properties
@@ -134,7 +134,7 @@ Examples:
 * Sexual preference
 * Religious belief
 
-Some modifications are temporary and may be difficult to distinguish from purely innate properties.  On first contact with an individual, such temporary modifications may be indistinguishable from purely innate properties.  
+Some modifications are temporary and may be difficult to distinguish from purely innate properties.  On first contact with an individual, such temporary modifications may be indistinguishable from purely innate properties.
 
 Examples:
 
@@ -151,7 +151,7 @@ Some modifications may be unintentionally transmitted, or other individuals may 
 
 ### Extrinsic Behavior
 
-Extrinsic behavior is rational and independent choices, actions and decisions.  Rational and independent in this context does not forgive or excuse actions performed as a member of a group or in a moment when emotion interferes with rational thought.  
+Extrinsic behavior is rational and independent choices, actions and decisions.  Rational and independent in this context does not forgive or excuse actions performed as a member of a group or in a moment when emotion interferes with rational thought.
 
 Examples:
 
@@ -198,6 +198,24 @@ All entities should be accorded the rights of Personal or Regional Liberty regar
 Mathematics of Social Virtue
 ------------------------
 
+### Definitions
 
+-  *__Entity__* 
+    - An entity is a person or man-made institution.
+    - Institutions include businesses and government organizations.
+-  *__Property__*
+    - A property is some extrinsic, intrinsic or composite property that describes an entity.
+-  *__Event__*
+    - An event is some discrete activity or behavior for which there is some record.
+    - Event types includes physical actions, social actions, political actions, speech, decisions, encounters with others (willing or unwilling), and responses to other events.
+    - Entities participate in events as active parties (actors), receivers of action, or passive observers.
+    - Passive observers are present during the event and have no direct involvement.
+    - Receivers may be the object of physical action or may be affected by decisions.
+    - Reactors are entities reacting physically (through direct action) or socially (through speech or policy) to some past event.
+-  *__Value__*
+    - Classification and measurement of the social value of a property or event.
+    - examples 
 
-
+-  *__Perspective__*
+    - An extrinsic perspective is a set of values prioritized for application to a particular situation.
+    - Individuals may have separate personal, professional, and political perspectives, each with a different priotization of values.
