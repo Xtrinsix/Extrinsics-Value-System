@@ -195,7 +195,7 @@ Rational and fair public policy must ignore the intrinsic properties of an indiv
 All entities should be accorded the rights of Personal or Regional Liberty regardless of intrinsic properties. Only extrinsic properties are cause for forfeiture of these rights.
 
 
-Mathematics of Social Virtue
+EVS and the Mathematics of Value
 ------------------------
 
 ### Definitions
@@ -213,9 +213,17 @@ Mathematics of Social Virtue
     - Receivers may be the object of physical action or may be affected by decisions.
     - Reactors are entities reacting physically (through direct action) or socially (through speech or policy) to some past event.
 -  *__Value__*
-    - Classification and measurement of the social value of a property or event.
-    - examples 
+    - Classification and measurement of the value of a property or event.
+    - Values can be social, political, personal or professional in nature.
+    - Political values focus on public policy and are often described in such terms.
+    - Examples of political values include broad concepts such as health care or public education and specific concepts such as equal gender pay or insurance coverage for birth control.
+    - Social values focus on justice  
+    - Examples of social values include broad concepts such as racial bias or specific concepts such as 
+    - Professional values focus on skills and experience and are often described in such terms.
+    - Examples of professional values include broad concepts such as leadership or specific concepts such as 
+    - Personal values focus on areas of personal preference or intrinsic properties.
+    - Examples of personal values include broad concepts such as music preference or specific concepts such as opinion on a particular book.
 
 -  *__Perspective__*
     - An extrinsic perspective is a set of values prioritized for application to a particular situation.
-    - Individuals may have separate personal, professional, and political perspectives, each with a different priotization of values.
+    - Individuals may have separate personal, professional, and political perspectives, each with a different prioritization of values.
