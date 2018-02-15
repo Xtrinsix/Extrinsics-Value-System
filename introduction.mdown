@@ -207,6 +207,7 @@ EVS and the Mathematics of Value
     - A property is some extrinsic, intrinsic or composite property that describes an entity.
 -  *__Event__*
     - An event is some discrete activity or behavior for which there is some record.
+    = Events have scope, such as public or private.
     - Event types includes physical actions, social actions, political actions, speech, decisions, encounters with others (willing or unwilling), and responses to other events.
     - Entities participate in events as active parties (actors), receivers of action, or passive observers.
     - Passive observers are present during the event and have no direct involvement.
@@ -216,14 +217,82 @@ EVS and the Mathematics of Value
     - Classification and measurement of the value of a property or event.
     - Values can be social, political, personal or professional in nature.
     - Political values focus on public policy and are often described in such terms.
-    - Examples of political values include broad concepts such as health care or public education and specific concepts such as equal gender pay or insurance coverage for birth control.
-    - Social values focus on justice  
-    - Examples of social values include broad concepts such as racial bias or specific concepts such as 
+    - Examples of political values include broad concepts such as health care or immigration and specific concepts such as support for work visas or insurance coverage for birth control.
+    - Social values focus on equality and justice and are often described in such terms.
+    - Examples of social values include broad concepts such as racial bias or specific concepts such as equal gender pay.
     - Professional values focus on skills and experience and are often described in such terms.
     - Examples of professional values include broad concepts such as leadership or specific concepts such as 
     - Personal values focus on areas of personal preference or intrinsic properties.
     - Examples of personal values include broad concepts such as music preference or specific concepts such as opinion on a particular book.
-
+    - Values can have composite types, such as social + political.
+-  *__Association__*
+    - A defined relationship between nodes in an EVS graph.
+    - Events are connected by causal associations.
+    - Properties and events are connected to values through value associations.
+    - 
 -  *__Perspective__*
     - An extrinsic perspective is a set of values prioritized for application to a particular situation.
     - Individuals may have separate personal, professional, and political perspectives, each with a different prioritization of values.
+
+### EVS
+
+Properties and events are associated with one or more values.
+Each value association carries a positive measurement of the association from minor (.01) to strong (1).
+
+
+Entities are associated with properties and events.
+Each event association carries a positive measurement of the association from unproven (.01) to factual (1).
+Each property association carries a positive measurement of the association from (.01) to (1).
+
+Events are associated to other events through causal associations.
+Each causal association carries a positive measurement of the association from weak (.01) to strong (1).
+Values associated with an event are further associated to other events through causal associations.  If event 1 causes event 2 with an association of .5, and event 2 has a value association of .9 with value 1, event 1 has a .9 x .5 = .45 association with value 1.
+
+
+Complex Example:
+
+Individuals Abe, Beth, Carter, Donna, Eva, Frank, Greg, Harriet are considered.
+Non-person entities Daily News are considered.
+
+
+Event 1: Eva files a complaint against Abe for spousal abuse, including pictures.
+Event 2: Eva drops the charges against Abe.
+Event 3: Abe files for divorce from Eva.
+Event 4: Abe agrees to a large lump-sum alimony payment for Eva.
+Event 5: Abe and Donna get married.
+Event 6: Donna files a complaint against Abe for spousal abuse with no corroborating evidence.
+Event 7: Donna drops the charges against Abe.
+Event 8: Abe files for divorce from Donna.
+Event 9: Abe agrees to a large recurring alimony payment for Donna.
+Event 10: Abe and Beth get married.
+Event 11: Carter asked Abe to work in a cabinet position in the federal government.
+Event 12: Frank performs a background check for Abe and discovers events 1, 2, 4, 6 and 7.
+Event 13: Frank informs Carter of events 1, 2, 3, 6 and 7 and advises against hiring Abe.
+Event 14: Carter hires Abe for the cabinet position.
+Event 15: Greg, who works for Carter, tells Frank to skip the rest of the background check.
+Event 16: Daily News reports that events 1, 6, 12, 13 and 14 occurred, making the events public.
+Event 17: Harriet, who works for Carter, does not publicly confirm or deny the events.
+Event 18: Harriet publicly questions the veracity of event 16 and the integrity of Daily News.
+Event 19: Abe does not publicly confirm or deny the events.
+Event 20: Carter publicly denies the events.
+Event 21: Greg publicly denies the events.
+Event 22: Frank publicly confirms events 12 and 13 and publicly discloses event 15.
+Event 23: Harriet publicly denies events 12 and 13 and questions Frank's integrity and motives.
+Event 24: Greg publicly confirms event 15.
+Event 25: Carter publicly reacts to event 20 by calling it an allegation.
+Event 26: Harriet publicly provides a history of events that omits event 15.
+Event 27: Abe resigns from his position.
+Event 28: Daily News reports on event 15 in more detail.
+Event 29: Greg publicly provides a different history of events from Harriet and does include event 15.
+Event 30: Carter publicly wishes Carter well and expresses sadness that he has resigned.
+Event 31: Daily News publicly asks Harriet why Carter has not publicly addressed events 1 or 6.
+Event 32: Harriet publicly reacts to event 31
+
+In the end, each of these 32 events were made public with some level of supporting documentation.
+
+Events 1-10 would be a matter of public record.  Confirmation of the facts of those events would be simple.  While events 1-10 would have significance to the invididuals involved, these are not in and of themselves public events for the public to react to.  These would normally have private scope.
+
+It may not be intuitive, but Abe has an association to event 1 as a receiver and Eva is the actor.  What are not listed here are the event(s) in which Abe was the actor and Eva was the receiver (the abuse).  These would need to be made public properly in order for the associations to be made.  That distinction is important.
+
+Events 11-32 have public scope, as these involve public declarations or resources in the public domain.
+
