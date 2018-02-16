@@ -237,8 +237,7 @@ EVS and the Mathematics of Value
 ### EVS
 
 Properties and events are associated with one or more values.
-Each value association carries a positive measurement of the association from minor (.01) to strong (1).
-
+Each value association carries a positive measurement of the association from minor (.01) to strong (1).  The values are positive (greater than 0) or negative (-.01 to -1) to indicate that a property or event is 
 
 Entities are associated with properties and events.
 Each event association carries a positive measurement of the association from unproven (.01) to factual (1).
@@ -286,7 +285,7 @@ Event 28: Daily News reports on event 15 in more detail.
 Event 29: Greg publicly provides a different history of events from Harriet and does include event 15.
 Event 30: Carter publicly wishes Carter well and expresses sadness that he has resigned.
 Event 31: Daily News publicly asks Harriet why Carter has not publicly addressed events 1 or 6.
-Event 32: Harriet publicly reacts to event 31
+Event 32: Harriet publicly reacts to event 31 with an official history of events that differs from events 26, 28 or 29.
 
 In the end, each of these 32 events were made public with some level of supporting documentation.
 
@@ -294,5 +293,17 @@ Events 1-10 would be a matter of public record.  Confirmation of the facts of th
 
 It may not be intuitive, but Abe has an association to event 1 as a receiver and Eva is the actor.  What are not listed here are the event(s) in which Abe was the actor and Eva was the receiver (the abuse).  These would need to be made public properly in order for the associations to be made.  That distinction is important.
 
-Events 11-32 have public scope, as these involve public declarations or resources in the public domain.
+Events 11-32 have public scope, as these involve public declarations or resources in the public domain.  Events 1 and 6 were brought into public domain through reporting.
+
+Values may be associated with each event in the public scope.  For example, event 14 may be associated with negative scores in various forms of integrity and women's issues.  Event 15 may be associated with negative scores in integrity and rule of law.  Event 18 may be associated with negative scores in various forms of integrity and honesty. Events 29,30 and 32 may be associated with negative scores in integrity, honesty and competence.  Event 30 may be associated with negative scores in various forms of women's issues.  Likewise, many of the vents may be associated with positive scores in loyalty.
+
+Because they were brought into public scope, events 1 and 6 may be associated with negative scores in various forms of women's issues and rule of law.
+
+Events 1 and 6 have causal associations to events 15 and 27 with some score between .01 and 1.  Values associated with events 1 and 6 have an indirect association with events 15 and 27.  For example, if event 1 has a -.9 score in issue 1, and event 1 has a causal association to event 15 with a score of .2, event 15 has an indirect association with issue 1 with a score of (.2 x -.9) -0.18.
+
+The value associations with events are further associated with actors, reactors and observers of each event.  Actors receive the full value association for each value associated directly or indirectly with an event.  Observers receive .25 of the value associated with an event.  Observer associations will be replaced by reactor associations if an observer later reacts to the event.
+
+
+
+ 
 
