@@ -151,7 +151,7 @@ Some modifications may be unintentionally transmitted, or other individuals may 
 
 ### Extrinsic Behavior
 
-Extrinsic behavior is rational and independent choices, actions and decisions.  Rational and independent in this context does not forgive or excuse actions performed as a member of a group or in a moment when emotion interferes with rational thought.
+Extrinsic behavior consists of rational and independent choices, actions and decisions.  Rational and independent in this context does not forgive or excuse actions performed as a member of a group or in a moment when emotion interferes with rational thought.
 
 Examples:
 
@@ -160,7 +160,7 @@ Examples:
 
 ### Intrinsic Behavior
 
-Intrinsic behavior 
+EVS does not attempt to measure or record intrinsic behavior.  
 
 
 ### Motivation
